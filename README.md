@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LeetCode Solutions
 
 This repository contains my structured solutions to LeetCode problems.
@@ -27,3 +28,6 @@ Problems are organized by topic:
 ## Goal
 Build strong data structures and algorithms fundamentals
 for technical interviews and competitive programming.
+=======
+# leetcode
+>>>>>>> 11c723679db7880ca02327564e6e95d36570547b
