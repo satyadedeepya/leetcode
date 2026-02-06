@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LeetCode Solutions
 
 This repository contains my structured solutions to LeetCode problems.
