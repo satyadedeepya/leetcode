@@ -27,3 +27,19 @@ Problems are organized by topic:
 ## Goal
 Build strong data structures and algorithms fundamentals
 for technical interviews and competitive programming.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+<!---LeetCode Topics End-->
