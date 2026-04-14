@@ -62,4 +62,4 @@ Time Complexity: O(n)
 Single traversal of the string
 
 Space Complexity: O(1)
-Only two variables useddfr
+Only two variables used
