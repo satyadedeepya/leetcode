@@ -47,4 +47,8 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/satyadedeepya/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
