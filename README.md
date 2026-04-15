@@ -34,6 +34,7 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 <!---LeetCode Topics End-->
