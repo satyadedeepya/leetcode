@@ -33,6 +33,7 @@ for technical interviews and competitive programming.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/satyadedeepya/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Dynamic Programming
@@ -42,6 +43,7 @@ for technical interviews and competitive programming.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/satyadedeepya/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -51,4 +53,8 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/satyadedeepya/leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/satyadedeepya/leetcode/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
