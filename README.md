@@ -37,6 +37,7 @@ for technical interviews and competitive programming.
 | [0075-sort-colors](https://github.com/satyadedeepya/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyadedeepya/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/satyadedeepya/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyadedeepya/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ for technical interviews and competitive programming.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/satyadedeepya/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyadedeepya/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 <!---LeetCode Topics End-->
