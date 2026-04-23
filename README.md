@@ -38,6 +38,7 @@ for technical interviews and competitive programming.
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/satyadedeepya/leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/satyadedeepya/leetcode/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/satyadedeepya/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/satyadedeepya/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyadedeepya/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -71,9 +72,11 @@ for technical interviews and competitive programming.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2615-sum-of-distances](https://github.com/satyadedeepya/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/satyadedeepya/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/satyadedeepya/leetcode/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+| [2615-sum-of-distances](https://github.com/satyadedeepya/leetcode/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
