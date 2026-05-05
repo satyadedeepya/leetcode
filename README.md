@@ -68,6 +68,7 @@ for technical interviews and competitive programming.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/satyadedeepya/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/satyadedeepya/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -89,4 +90,8 @@ for technical interviews and competitive programming.
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/satyadedeepya/leetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/satyadedeepya/leetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/satyadedeepya/leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
